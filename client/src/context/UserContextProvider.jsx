@@ -1,4 +1,4 @@
-import React, {useState} from 'react';
+import {useState} from 'react';
 import UserContext from './UserContext';
 
 // eslint-disable-next-line react/prop-types
